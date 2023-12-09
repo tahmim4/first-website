@@ -1,0 +1,19 @@
+body{
+    font-family: 'Montserrat', sans-serif;;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.name-color{
+    color: orange;
+}
+.half-width h1{
+    font-size: 28px;
+    font-weight: 900;
+}
